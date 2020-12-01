@@ -1,3 +1,3 @@
 # challenegenek
 project
-read me @
+read me @https://tosinyusuf.github.io/challenegenek/.
